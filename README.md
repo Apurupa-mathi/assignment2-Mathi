@@ -26,3 +26,22 @@ It is located in the **South Indian State of Karnataka** and it is famous for **
   * Biscuits
 
 [AboutMe](https://github.com/Apurupa-mathi/assignment2-Mathi/blob/main/AboutMe.md)
+
+---
+
+# Table Creation
+
+A table with three columns recommends the some of the best foods that i experienced in india.
+
+| FOOD/DRINK         |     Location      |   Cost    |
+|     ---            |       ---         |   ---     |
+| Spaghetti Pasta    |     Bukhara       |   $2.99   |
+|Creme Frappuccinos  |     Strabucks     |   $5.45   |
+|Mozzarella pizza    |     Pizza hut     |   $6.99   |
+|Choclate AlmondMilk |    Starbucks      |  $5.45    |
+                
+
+
+
+
+
