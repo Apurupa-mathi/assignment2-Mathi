@@ -39,6 +39,15 @@ A table with three columns recommends the some of the best foods that i experien
 |Creme Frappuccinos  |     Strabucks     |   $5.45   |
 |Mozzarella pizza    |     Pizza hut     |   $6.99   |
 |Choclate AlmondMilk |    Starbucks      |  $5.45    |
+
+---
+
+# Quotes by Authors
+
+> "Keeping yourself happy is your own responsibility.Do everything that you can,daily." - by
+***Rahul Kaushik*** <br>
+> "Don't be serious,be sincere." - by
+***Chetan Bhagat***
                 
 
 
