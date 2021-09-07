@@ -48,9 +48,28 @@ A table with three columns recommends the some of the best foods that i experien
 ***Rahul Kaushik*** <br>
 > "Don't be serious,be sincere." - by
 ***Chetan Bhagat***
-                
 
+---
 
+# Algorithm on strings
+In computer programming, a string is traditionally a sequence of characters, either as a literal constant or as some kind of variable. The latter may allow its elements to be mutated and the length changed, or it may be fixed (after creation). A string is generally considered as a data type and is often implemented as an array data structure of bytes (or words) that stores a sequence of elements, typically characters, using some character encoding. String may also denote more general arrays or other sequence (or list) data types and structures.
 
+Source link - <https://en.wikipedia.org/wiki/String_(computer_science)>
 
+---
 
+long long compute_hash(string const& s) {
+    const int p = 31;
+    const int m = 1e9 + 9;
+    long long hash_value = 0;
+    long long p_pow = 1;
+    for (char c : s) {
+        hash_value = (hash_value + (c - 'a' + 1) * p_pow) % m;
+        p_pow = (p_pow * p) % m;
+    }
+    return hash_value;
+}
+
+```
+
+source link - <https://cp-algorithms.com/string/string-hashing.html>
