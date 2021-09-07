@@ -56,7 +56,7 @@ In computer programming, a string is traditionally a sequence of characters, eit
 
 Source link - <https://en.wikipedia.org/wiki/String_(computer_science)>
 
----
+```
 
 long long compute_hash(string const& s) {
     const int p = 31;
